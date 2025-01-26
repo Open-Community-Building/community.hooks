@@ -1,11 +1,3 @@
-Veranstaltungen in der Kurfürstenanlage 58 verantwortungsvoll organisieren
+This is the list of places that point to pages inside of here:
 
-https://github.com/Open-Community-Building/hooks/blob/main/responsible-event-organisation.txt
-
-Bücher(h)orte neu denken können
-
-https://github.com/Open-Community-Building/hooks/blob/main/book-hoards-new-ideas.txt
-
-Planung eines monatlichen Treffpunktes für Vereine im Dezernat 16
-
-https://github.com/Open-Community-Building/hooks/blob/main/meetups-at-dezernat16.txt
+https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305760996/
