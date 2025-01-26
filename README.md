@@ -17,7 +17,9 @@ https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305760996/
 As a comment, I have made links to the following pages:
 
 https://github.com/Open-Community-Building/hooks/blob/main/responsible-event-organisation.txt
+
 https://github.com/Open-Community-Building/hooks/blob/main/book-hoards-new-ideas.txt
+
 https://github.com/Open-Community-Building/hooks/blob/main/meetups-at-dezernat16.txt
 
 Now those who are interested know about the current state of affairs.
