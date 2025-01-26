@@ -6,3 +6,12 @@ People we reach through our Meetup activities want to know
 - what are some interesting links?
 - further information
 
+To see how this works in action, have a look here:
+
+https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305760996/
+
+As a comment, I have made links to the following pages:
+
+https://github.com/Open-Community-Building/hooks/blob/main/responsible-event-organisation.txt
+https://github.com/Open-Community-Building/hooks/blob/main/book-hoards-new-ideas.txt
+https://github.com/Open-Community-Building/hooks/blob/main/meetups-at-dezernat16.txt
