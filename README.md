@@ -1,7 +1,23 @@
-To stay up-to-date on out topics, we keep a record of what is currently going on.
+To stay up-to-date on our topics, we keep a record of what is currently going on.
 
 Have a look at the files in this folder to get an idea of what we are up to.
 
-This approach is described in further detail here:
+People we reach through our Meetup activities want to know 
 
-https://github.com/Open-Community-Building/hooks/blob/main/externalization-through-meetups.txt
+- what happens to the topics we talk about?
+- what are the results so far?
+- is the topic closed, or still ongoing?
+- what are some interesting links?
+- further information
+
+To see how this works in action when we want to get people hooked:
+
+https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305760996/
+
+As a comment, I have made links to the following pages:
+
+https://github.com/Open-Community-Building/hooks/blob/main/responsible-event-organisation.txt
+https://github.com/Open-Community-Building/hooks/blob/main/book-hoards-new-ideas.txt
+https://github.com/Open-Community-Building/hooks/blob/main/meetups-at-dezernat16.txt
+
+Now those who are interested know about the current state of affairs.
