@@ -1,12 +1,3 @@
-Veranstaltungen in der Kurfürstenanlage 58 verantwortungsvoll organisieren:
-https://github.com/Open-Community-Building/hooks/blob/main/responsible-event-organisation.txt
-
-
-Planung eines monatlichen Treffpunktes für Vereine im Dezernat 16:
-https://github.com/Open-Community-Building/hooks/blob/main/meetups-at-dezernat16.txt
-
-
-
 Wouldn't it be great to have a place like this in Heidelberg:
 
 https://www.nypl.org/locations/snfl
@@ -15,4 +6,6 @@ Current results:
 
 2025-01-23: We had a meetup, and talked about the topic "Bücher(h)orte neu denken": https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305760996/
 
-2025-01-26: It seems like we are not the only ones who think about good places, and are currently making connections.
+2025-01-26: It seems like we are not the only ones who think about good places
+
+Current Status: Someone from our team needs to write down here what the Heidelberg architects are up to regarding this topic
