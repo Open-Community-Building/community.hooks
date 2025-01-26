@@ -14,12 +14,6 @@ To see how this works in action when we want to get people hooked:
 
 https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305760996/
 
-As a comment, I have made links to the following pages:
-
-https://github.com/Open-Community-Building/hooks/blob/main/responsible-event-organisation.txt
-
-https://github.com/Open-Community-Building/hooks/blob/main/book-hoards-new-ideas.txt
-
-https://github.com/Open-Community-Building/hooks/blob/main/meetups-at-dezernat16.txt
+In the comments, there is a link to the hooks.
 
 Now those who are interested know about the current state of affairs.
