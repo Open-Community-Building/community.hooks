@@ -1,3 +1,7 @@
-This is the list of places that point to pages inside of here:
+To stay up-to-date on out topics, we keep a record of what is currently going on.
 
-https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305760996/
+Have a look at the files in this folder to get an idea of what we are up to.
+
+This approach is described in further detail here:
+
+https://github.com/Open-Community-Building/hooks/blob/main/externalization-through-meetups.txt
