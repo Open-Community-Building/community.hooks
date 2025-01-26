@@ -1,6 +1,6 @@
 Veranstaltungen in der Kurfürstenanlage 58 verantwortungsvoll organisieren
 
-https://github.com/Open-Community-Building/hooks/blob/main/meetups-at-dezernat16.txt
+https://github.com/Open-Community-Building/hooks/blob/main/responsible-event-organisation.txt
 
 Bücher(h)orte neu denken können
 
