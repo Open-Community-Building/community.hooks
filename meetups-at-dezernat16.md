@@ -8,8 +8,10 @@ Current results:
 
 2025-01-26: We are currently planning to host a couple of Meetups at the Dezernat 16 every last Tuesday of the month
 
-2025-01-26: The first time we put this into action is going to be for the 28th of January 2025
+2025-01-26: The first time we put this into action was going to be the 28th of January 2025
 
 2025-01-26: We are continuously looking for all kinds of clubs (in german: Vereine) that want to join in.
 
-Current Status: Looking for participants 
+2025-01-26: We realized that we need more time to get this done. Probably the first event will happen on the 25th of February
+
+Current Status: Looking for participants and a way to sustain the shared organisation.
