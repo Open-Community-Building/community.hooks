@@ -14,4 +14,6 @@ Current results:
 
 2025-01-26: We realized that we need more time to get this done. Probably the first event will happen on the 25th of February
 
+2025-01-26: Organisation moves on with a few highly motivated organisers
+
 Current Status: Looking for participants and a way to sustain the shared organisation. We use this document here to work on this.
