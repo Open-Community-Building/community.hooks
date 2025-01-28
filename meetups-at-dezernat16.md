@@ -25,4 +25,8 @@ Current results:
 
 2025-01-26: Organisation moves on with a few highly motivated organisers
 
+2025-01-27: We move the Meetups to Dezernat 16
+
+2025-01-27: Added information on the D16 Newsletter. Help with translation is welcome
+
 Current Status: Looking for participants and a way to sustain the shared organisation. We use this document here to work on this.
