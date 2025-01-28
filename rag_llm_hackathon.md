@@ -1,0 +1,3 @@
+On the Saturday February 1st 2025, we will plan to host a little hackathon.
+
+Stay tuned for more info...
