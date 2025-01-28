@@ -22,6 +22,8 @@ Todos:
 - Setup a List of participating Vereine and Meetups
 
   - https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305861334/
+  - https://www.meetup.com/heidelbergpython/events/305500106
+  - 
 
 Activity Log:
 
