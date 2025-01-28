@@ -19,6 +19,8 @@ Todos:
 
 - We need to make our events known to the organisers of the to the Newsletter der Kultur und Kreativwirtschaft. https://kreativwirtschaftszentren-heidelberg.de/news/ 
 
+- Setup a List of participating Vereine and Meetups
+
 Activity Log:
 
 2025-01-23: We had a meetup, and talked about the topic "Planung eines monatlichen Treffpunktes für Vereine im Dezernat 16": https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305760996/
