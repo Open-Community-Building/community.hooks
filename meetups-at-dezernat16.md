@@ -1,16 +1,25 @@
-We are organising some Meetups at the Dezernat 16 in this room:
-
-https://kreativwirtschaftszentren-heidelberg.de/seminarraum/
+Dezernat 16: "CoWorking der Vereine"
 
 On the 28th of January 2025 we will for the first time organise a series of events at the Dezernat 16: "CoWorking der Vereine".
 
 You can join us between 18:00 and 19:00, in the Seminarraum, Emil-Maier-Str. 16 (first floor). 
+
+https://kreativwirtschaftszentren-heidelberg.de/seminarraum/
+
 Coming from Emil-Maier-str 16, you go along right side of the building to the main entrance. 
 It is not the entrance on the street, and you should see a number of mailboxes close to the door.
 Turn the knob of the door, and when you enter, you immediately go up the stairs, where you will find the room "Seminarraum".
 The doors usually close at around 19 o'clock.
 
-Current results:
+Current Status: 
+
+We are ready for the first meeting today, and it is looking great! Thanks for all the support from our community!
+
+Todos:
+
+- We need to make our events known to the organisers of the to the Newsletter der Kultur und Kreativwirtschaft. https://kreativwirtschaftszentren-heidelberg.de/news/ 
+
+Activity Log:
 
 2025-01-23: We had a meetup, and talked about the topic "Planung eines monatlichen Treffpunktes für Vereine im Dezernat 16": https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305760996/
 
@@ -33,11 +42,3 @@ Current results:
 2025-01-28: Volunteers are welcome to translate parts of this document into english. Just make a pull request.
 
 2025-01-28: Announcements are out, giving a flexible starting time between 18:00 and 19:00 o'clock.
-
-Todos:
-
-We need to make our events known to the organisers of the to the Newsletter der Kultur und Kreativwirtschaft. https://kreativwirtschaftszentren-heidelberg.de/news/ 
-
-Current Status: 
-
-We are ready for the first meeting today, and it is looking great! Thanks for all the support from our community!
