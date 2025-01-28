@@ -38,4 +38,6 @@ Current results:
 
 2025-01-27: Volunteers are welcome to translate parts of this document into english. Just make a pull request.
 
-Current Status: We are ready for the first meeting today. Some announcements are still necessary, but it is looking great! Thanks for all the support from our community!
+2025-01-27: Announcements are out, giving a flexible starting time between 18:00 and 19:00 o'clock.
+
+Current Status: We are ready for the first meeting today, and it is looking great! Thanks for all the support from our community!
