@@ -21,6 +21,8 @@ Todos:
 
 - Setup a List of participating Vereine and Meetups
 
+  - https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305861334/
+
 Activity Log:
 
 2025-01-23: We had a meetup, and talked about the topic "Planung eines monatlichen Treffpunktes für Vereine im Dezernat 16": https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305760996/
