@@ -31,4 +31,4 @@ Current results:
 
 2025-01-27: We need a description of how to get to the Seminarraum for people who have no clue about Dezernat 16. Any volunteers?
 
-Current Status: Looking for participants and a way to sustain the shared organisation. We use this document here to work on this.
+Current Status: We are ready for the first meeting today. Some announcements are still necessary, but it is looking great! Thanks for all the support from our community!
