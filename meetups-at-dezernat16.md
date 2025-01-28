@@ -2,6 +2,15 @@ We are organising some Meetups at the Dezernat 16 in this room:
 
 https://kreativwirtschaftszentren-heidelberg.de/seminarraum/
 
+
+Es gibt einen Newsletter der Kultur und Kreativwirtschaft, 
+in dem wir die Veranstaltung bewerben könnten: 
+„Schickt die Infos gerne per Mail an kreativwirtschaft@heidelberg.de.“ 
+Wissen, was in den Kreativwirtschaftszentren passiert: 
+Jetzt anmelden unter 
+www.kreativwirtschaftszentren-heidelberg.de/news
+
+
 Current results:
 
 2025-01-23: We had a meetup, and talked about the topic "Planung eines monatlichen Treffpunktes für Vereine im Dezernat 16": https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305760996/
