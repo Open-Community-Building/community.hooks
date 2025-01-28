@@ -29,4 +29,6 @@ Current results:
 
 2025-01-27: Added information on the D16 Newsletter. Help with translation is welcome
 
+2025-01-27: We need a description of how to get to the Seminarraum for people who have no clue about Dezernat 16. Any volunteers?
+
 Current Status: Looking for participants and a way to sustain the shared organisation. We use this document here to work on this.
