@@ -23,7 +23,8 @@ Todos:
 
   - https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305861334/
   - https://www.meetup.com/heidelbergpython/events/305500106
-  - 
+ 
+- Create a channel at stadtwissen.eu 
 
 Activity Log:
 
