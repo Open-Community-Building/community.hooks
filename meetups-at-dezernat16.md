@@ -2,19 +2,13 @@ We are organising some Meetups at the Dezernat 16 in this room:
 
 https://kreativwirtschaftszentren-heidelberg.de/seminarraum/
 
-Durch den Haupteingang 
-(rechts am Gebäude an der Emil-Maier-str 16 an den Briefkästen vorbei,
- nicht die Türen vorn), 
-den Knauf an der Tür unten muss man drehen, 
-dann direkt die Treppe hoch und dann dort eine der beschilderten Türen.
+On the 28th of January 2025 we will for the first time organise a series of events at the Dezernat 16: "CoWorking der Vereine".
 
-Es gibt einen Newsletter der Kultur und Kreativwirtschaft, 
-in dem wir die Veranstaltung bewerben könnten: 
-„Schickt die Infos gerne per Mail an kreativwirtschaft@heidelberg.de.“ 
-Wissen, was in den Kreativwirtschaftszentren passiert: 
-Jetzt anmelden unter 
-www.kreativwirtschaftszentren-heidelberg.de/news
-
+You can join us between 18:00 and 19:00, in the Seminarraum, Emil-Maier-Str. 16 (first floor). 
+Coming from Emil-Maier-str 16, you go along right side of the building to the main entrance. 
+It is not the entrance on the street, and you should see a number of mailboxes close to the door.
+Turn the knob of the door, and when you enter, you immediately go up the stairs, where you will find the room "Seminarraum".
+The doors usually close at around 19 o'clock.
 
 Current results:
 
@@ -32,12 +26,18 @@ Current results:
 
 2025-01-27: We move the Meetups to Dezernat 16 already for today. Many people are helping in the background to make this possible.
 
-2025-01-27: Added information on the D16 Newsletter.
+2025-01-28: We need to make our events known to the organisers of the to the Newsletter der Kultur und Kreativwirtschaft. https://kreativwirtschaftszentren-heidelberg.de/news/ 
 
-2025-01-27: Thanks to Anne we now have a description of how to get to the Seminarraum for people who have no clue about Dezernat 16.
+2025-01-28: Thanks to Anne we now have a description of how to get to the Seminarraum for people who have no clue about Dezernat 16.
 
-2025-01-27: Volunteers are welcome to translate parts of this document into english. Just make a pull request.
+2025-01-28: Volunteers are welcome to translate parts of this document into english. Just make a pull request.
 
-2025-01-27: Announcements are out, giving a flexible starting time between 18:00 and 19:00 o'clock.
+2025-01-28: Announcements are out, giving a flexible starting time between 18:00 and 19:00 o'clock.
 
-Current Status: We are ready for the first meeting today, and it is looking great! Thanks for all the support from our community!
+Todos:
+
+We need to make our events known to the organisers of the to the Newsletter der Kultur und Kreativwirtschaft. https://kreativwirtschaftszentren-heidelberg.de/news/ 
+
+Current Status: 
+
+We are ready for the first meeting today, and it is looking great! Thanks for all the support from our community!
