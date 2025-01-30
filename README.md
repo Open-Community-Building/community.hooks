@@ -16,10 +16,10 @@ People we reach through our posts on social media want to know
 
 - further information
 
-To see how this works in action when we want to get people hooked:
+Let me explain the rationale:
 
-https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305760996/
+If I post this event on any social media platform, I am giving away control over it.
 
-In the comments, there is a link to the hooks.
+Why not just post it in a simple text file in Github and use the tools we love and cherish?
 
-Now those who are interested know about the current state of affairs.
+For the moment, I am fine to give control to Github, but I have some ideas about how to make the links redirect through a domain controlled by a friendly organisation.
