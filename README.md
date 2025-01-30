@@ -22,4 +22,4 @@ If I post this event on any social media platform, I am giving away control over
 
 Why not just post it in a simple text file in Github and use the tools we love and cherish?
 
-For the moment, I am fine to give control to Github, but I have some ideas about how to make the links redirect through a domain controlled by a friendly organisation.
+For the moment, I am fine to give control to Github, but I have some ideas about how to make the links redirect through a domain controlled by a friendly organisation. Then, if Github should make it difficult to link to it, I can redirect somewhere else.
