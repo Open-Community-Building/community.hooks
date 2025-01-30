@@ -2,7 +2,7 @@ On Saturday February 1st 2025, we are organising a RAG LLM Hackathon
 
 Time: 
 
-Saturday, 1st of February, 10am to 15pm
+Saturday, 1st of February 2025, 10am to 3pm
 
 Place: 
 
