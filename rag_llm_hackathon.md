@@ -37,7 +37,7 @@ Todos:
 
 - Make a program for the day - Harsh offered help
 
-Add event to rheinneckar.events
+- Add event to rheinneckar.events
 
 Activity Log:
 
