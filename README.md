@@ -1,3 +1,5 @@
+Open Community Building
+
 To stay up-to-date on our topics, we keep a record of what is currently going on.
 
 Have a look at the files in this folder to get an idea of what we are up to.
