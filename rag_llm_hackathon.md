@@ -41,4 +41,5 @@ Activity Log:
 
 2025-01-30: Room reservation reconfirmed at the Tink Tank
 
+2025-01-30: Some invitations on LinkedIn
 
