@@ -24,3 +24,5 @@ https://www.meetup.com/gis-und-geoinformation
 
 Agile Team:
 https://www.meetup.com/agile-praxis-meetup/events/305881473/
+
+2025-01-30: Room reservation confirmed at the Tink Tank
