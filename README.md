@@ -4,12 +4,16 @@ To stay up-to-date on our topics, we keep a record of what is currently going on
 
 Have a look at the files in this folder to get an idea of what we are up to.
 
-People we reach through our Meetup activities want to know 
+People we reach through our posts on social media want to know 
 
 - what happens to the topics we talk about?
+
 - what are the results so far?
+
 - is the topic closed, or still ongoing?
+
 - what are some interesting links?
+
 - further information
 
 To see how this works in action when we want to get people hooked:
