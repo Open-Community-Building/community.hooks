@@ -2,7 +2,7 @@ Council Insights Heidelberg  - Data Analytics on Council Work using LLM
 
 On Saturday February 1st 2025, we are organising a RAG LLM Hackathon.
 
-It is a low-key event, and managing it in a Github document is done on purpose.
+It is a low-key event, and managing it in a Github document is done on purpose. I will continue to explain it better here: https://github.com/Open-Community-Building/community.hooks/edit/main/README.md
 
 Use your usual Git tools to work together with us!
 
