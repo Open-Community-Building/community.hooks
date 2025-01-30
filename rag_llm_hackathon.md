@@ -1,4 +1,16 @@
-On Saturday February 1st 2025, we are organising a RAG LLM Hackathon
+Council Insights Heidelberg  - Data Analytics on Council Work using LLM
+
+On Saturday February 1st 2025, we are organising a RAG LLM Hackathon.
+
+It is a low-key event, and managing it in a Github document is done on purpose.
+
+Use your usual Git tools to work together with us!
+
+If you are interested in our story, have a look at the following links:
+
+https://communities.sas.com/t5/SAS-Hacker-s-Hub/Council-Insights-Heidelberg-nbsp-Data-Analytics-on-Council-Work/ta-p/939624
+
+https://www.sas.com/cs_cz/news/press-releases/2024/november/2024-hackathon-winners.html
 
 Time: 
 
