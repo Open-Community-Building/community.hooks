@@ -3,6 +3,7 @@ Rhein-Neckar Social, Events und Wiki
 First meeting of rheinneckar.social
 
 Time: January 11th 2025, 7pm
+
 Location: https://github.com/Open-Community-Building/community.hooks/blob/main/directions_to_seminarraum_in_dezernat16.md
 
 The topics were 
