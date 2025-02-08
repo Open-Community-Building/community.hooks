@@ -21,6 +21,8 @@ Todos:
 
 - Integration with rheinneckar.social und rheinneckar.events
 
+- We want to invite the different associations in Heidelberg to join us
+
 Activity Log:
 
 2025-01-23: We had a meetup, and talked about the topic "Planung eines monatlichen Treffpunktes für Vereine im Dezernat 16": https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305760996/
