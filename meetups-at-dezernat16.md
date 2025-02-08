@@ -12,7 +12,7 @@ Todos:
 
 - We need to make our events known to the organisers of the to the Newsletter der Kultur und Kreativwirtschaft. https://kreativwirtschaftszentren-heidelberg.de/news/ 
 
-- Setup a List of participating Vereine and Meetups
+- Setup a List of participating associations and Meetups
 
   - https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305861334/
   - https://www.meetup.com/heidelbergpython/events/305500106
