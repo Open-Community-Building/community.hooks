@@ -53,3 +53,5 @@ Activity Log:
 2025-01-28: Announcements are out, giving a flexible starting time between 18:00 and 19:00 o'clock.
 
 2025-01-28: The meeting on the 28th of January can be declared as a great success already! There are even quite a few remote participants.
+
+2025-02-08: We are now meeting every Saturday at 10 o'clock in the Stadtbücherei Heidelberg
