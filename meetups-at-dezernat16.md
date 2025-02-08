@@ -4,6 +4,16 @@ Every last Tuesday of the Month, we organise an event at the Dezernat 16: "CoWor
 
 https://github.com/Open-Community-Building/community.hooks/blob/main/directions_to_seminarraum_in_dezernat16.md
 
+Information about Dezernat 16:
+
+https://kreativwirtschaftszentren-heidelberg.de/dezernat16/
+
+Further linls:
+
+Kreativwirtschaftszentren Heidelberg; https://kreativwirtschaftszentren-heidelberg.de/
+
+Marlene 42 https://kreativwirtschaftszentren-heidelberg.de/marlene42/
+
 Current Status: 
 
 The first meeting on the 28th of January 2025 was promising. In preparation of the next meeting on the 25th oj January, we are having organisational meetings in the Heidelberg public library every Saturday at 10 o'clock. Location: Stadtbücherei Heidelberg
