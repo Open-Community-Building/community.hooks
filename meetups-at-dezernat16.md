@@ -1,19 +1,12 @@
 Dezernat 16: "CoWorking der Vereine"
 
-On the 28th of January 2025 we will for the first time organise a series of events at the Dezernat 16: "CoWorking der Vereine".
+Every last Tuesday of the Month, we organise an event at the Dezernat 16: "CoWorking der Vereine".
 
-You can join us between 18:00 and 19:00, in the Seminarraum, Emil-Maier-Str. 16 (first floor). 
-
-https://kreativwirtschaftszentren-heidelberg.de/seminarraum/
-
-Coming from Emil-Maier-str 16, you go along right side of the building to the main entrance. 
-It is not the entrance on the street, and you should see a number of mailboxes close to the door.
-Turn the knob of the door, and when you enter, you immediately go up the stairs, where you will find the room "Seminarraum".
-The doors usually close at around 19 o'clock.
+https://github.com/Open-Community-Building/community.hooks/blob/main/directions_to_seminarraum_in_dezernat16.md
 
 Current Status: 
 
-We are ready for the first meeting today, and it is looking great! Thanks for all the support from our community!
+The first meeting on the 28th of January 2025 was promising. In preparation of the next meeting on the 25th oj January, we are having organisational meetings in the Heidelberg public library every Saturday at 10 o'clock. Location: Stadtbücherei Heidelberg
 
 Todos:
 
