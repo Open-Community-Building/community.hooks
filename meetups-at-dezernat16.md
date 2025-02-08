@@ -16,7 +16,9 @@ Marlene 42 https://kreativwirtschaftszentren-heidelberg.de/marlene42/
 
 Current Status: 
 
-The first meeting on the 28th of January 2025 was promising. In preparation of the next meeting on the 25th oj January, we are having organisational meetings in the Heidelberg public library every Saturday at 10 o'clock. Location: Stadtbücherei Heidelberg
+Heidelberger Dienste gGmbH (https://www.hddienste.de/) are sponsoring the room for our activities. 
+The first meeting on the 28th of January 2025 was promising. 
+In preparation of the next meeting on the 25th oj January, we are having organisational meetings in the Heidelberg public library every Saturday at 10 o'clock. Location: Stadtbücherei Heidelberg
 
 Todos:
 
@@ -60,3 +62,5 @@ Activity Log:
 2025-01-28: The meeting on the 28th of January can be declared as a great success already! There are even quite a few remote participants.
 
 2025-02-08: We are now meeting every Saturday at 10 o'clock in the Stadtbücherei Heidelberg
+
+2025-02-08: Heidelberger Dienste are sponsoring the room for our activities
