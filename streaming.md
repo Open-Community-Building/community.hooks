@@ -28,3 +28,12 @@ Activity Log:
 
 2025-02-10: Announcement of the Python Meetup: https://www.meetup.com/heidelbergpython/events/305758630/
 
+2025-02-10: Invitation for the AI Computing Meetup: https://www.meetup.com/ai-computing-heidelberg/events/305989816/
+
+2025-02-10: Invitation for the GIS und Geoinformation Rhein-Neckar Stammtisch: https://www.meetup.com/gis-und-geoinformation/events/305758626/
+
+2025-02-10: Invitation for the Agile Praxis Stammtisch: https://www.meetup.com/agile-praxis-meetup/events/306015005/
+
+2025-02-10: Invitation for the SDG Hub Stammtisch: https://www.meetup.com/sdghub/events/305758633/
+
+
