@@ -1,6 +1,8 @@
 Council Insights Heidelberg  - Data Analytics on Council Work using LLM
 
-On Saturday February 1st 2025, we are organising a RAG LLM Hackathon.
+We are organizing a series of RAG LLM Hackathons 
+
+The first was on Saturday February 1st 2025, and the next will happen on the 22nd of March 2025
 
 It is a low-key event, and managing it in a Github document is done on purpose. I will continue to explain it better here: https://github.com/Open-Community-Building/community.hooks/edit/main/README.md
 
