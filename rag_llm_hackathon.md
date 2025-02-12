@@ -2,7 +2,7 @@ Council Insights Heidelberg  - Data Analytics on Council Work using LLM
 
 We are organizing a series of RAG LLM Hackathons 
 
-The first was on Saturday February 1st 2025, and the next is to be decided later. (Maybe on the 22nd of March 2025)
+The first was on Saturday February 1st 2025, and the next is to be decided later. (Maybe on the 15th of March 2025)
 
 It is a low-key event, and managing it in a Github document is done on purpose. I will continue to explain it better here: https://github.com/Open-Community-Building/community.hooks/edit/main/README.md
 
@@ -55,7 +55,7 @@ Activity Log:
 
 2025-02-01: We write documentation on how to link to source files from the output of the Heidelberg City Council Chatbot: https://github.com/Open-Community-Building/hackathon-council-analytics/blob/main/docs/mapping_back.rst 
 
-2025-02-11: Next Hackathon is probably going to happen on the 22nd of March 2025
+2025-02-11: Next Hackathon is probably going to happen on the 15th of March 2025
 
 2025-01-30: Room reservation reconfirmed at the Tink Tank
 
