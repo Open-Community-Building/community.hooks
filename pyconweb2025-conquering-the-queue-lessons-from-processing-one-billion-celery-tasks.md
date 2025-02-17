@@ -12,13 +12,13 @@ Whether you’re just starting with Celery or looking to scale an established sy
 
 Outline:
 
-• Introduction: Why Userlike needs a task queue, and why you need one too
-• Fundamental concepts: latency, throughput, failure modes
-• Optimizing Performance: Strategies for faster and more efficient task execution
-• Avoiding Pitfalls: Common mistakes and how to mitigate them
-• Handling Failures: Building fault-tolerant workflows and monitoring systems
-• Resilient Architecture: Designing for reliability and scalability
-• Key Takeaways: Practical tips for implementing and scaling Celery in your own projects
+* Introduction: Why Userlike needs a task queue, and why you need one too
+* Fundamental concepts: latency, throughput, failure modes
+* Optimizing Performance: Strategies for faster and more efficient task execution
+* Avoiding Pitfalls: Common mistakes and how to mitigate them
+* Handling Failures: Building fault-tolerant workflows and monitoring systems
+* Resilient Architecture: Designing for reliability and scalability
+* Key Takeaways: Practical tips for implementing and scaling Celery in your own projects
 
 This talk is designed to be technical, engaging, and packed with real-world experiences to help you conquer the queue in your own applications.
 
