@@ -12,5 +12,22 @@ PyConWeb took place in Berlin on January 24th and 25th.
 
 I skipped the tutorial day on the 24th, so I can only report on the talks I chose to attend.
 
-Here are the links to my reports on the individual talks:
+These are the talks I attended:
 
+https://www.pyconweb.com/activity/what-history-of-web-teach-about-future-of-ai
+
+https://www.pyconweb.com/activity/conquering-the-queue-lessons-from-processing-one-billion-celery-tasks
+
+https://www.pyconweb.com/activity/algorithmic-crypto-trading-with-python
+
+https://www.pyconweb.com/activity/ai-agents-customizing-ai-to-your-needs
+
+https://www.pyconweb.com/activity/django-as-an-ai-orchestrator
+
+https://www.pyconweb.com/activity/securing-python-web-applications
+
+https://www.pyconweb.com/activity/from-25-microservices-to-one-async-modulith
+
+https://www.pyconweb.com/activity/pure-django-rest-api-framework
+
+https://www.pyconweb.com/activity/lightning-talks
