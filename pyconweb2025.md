@@ -16,11 +16,11 @@ These are the talks I attended:
 
 https://github.com/Open-Community-Building/community.hooks/blob/main/pyconweb2025-what-history-of-web-teach-about-future-of-ai.md
 
-https://www.pyconweb.com/activity/conquering-the-queue-lessons-from-processing-one-billion-celery-tasks
+https://github.com/Open-Community-Building/community.hooks/blob/main/pyconweb2025-conquering-the-queue-lessons-from-processing-one-billion-celery-tasks.md
 
 https://www.pyconweb.com/activity/algorithmic-crypto-trading-with-python
 
-https://www.pyconweb.com/activity/ai-agents-customizing-ai-to-your-needs
+https://github.com/Open-Community-Building/community.hooks/blob/main/pyconweb2025-ai-agents-customizing-ai-to-your-needs.md
 
 https://www.pyconweb.com/activity/django-as-an-ai-orchestrator
 
