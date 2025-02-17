@@ -22,3 +22,6 @@
 > 
 > This talk is designed to be technical, engaging, and packed with real-world experiences to help you conquer the queue in your own applications.
 
+Daniel sent this Tweet to the organizers of Pycon + Web 2025:
+
+https://x.com/danielhepper/status/1883467119783977293
