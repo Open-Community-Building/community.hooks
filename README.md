@@ -1,5 +1,9 @@
 Open Community Building
 
+To get in touch with us, we get together every Saturday at 10 o'clock here:
+
+https://github.com/Open-Community-Building/community.hooks/blob/main/team-bib-lab.md
+
 To stay up-to-date on our topics, we keep a record of what is currently going on.
 
 Have a look at the files in this folder to get an idea of what we are up to.
