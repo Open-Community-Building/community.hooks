@@ -36,4 +36,4 @@ Activity Log:
 
 2025-02-10: Invitation for the SDG Hub Stammtisch: https://www.meetup.com/sdghub/events/305758633/
 
-2025-02-17: We are thinking about helping to create a startup with the topic of making video multimedia production called edia Film Werk
+2025-02-17: We are thinking about helping to create a startup with the topic of making video multimedia production called Media Film Werk
