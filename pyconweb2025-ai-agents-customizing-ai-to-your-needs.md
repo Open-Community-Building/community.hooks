@@ -19,3 +19,7 @@
 > * Distinguish agentic and non-agentic systems and their reasoning paradigms.
 > * Build your own AI agent with custom LangChain tools that meets the needs of your task-oriented AI system.
 > * Import and utilize pre-built LangChain tools to fit your workflow.
+
+Anna wrote about her talk on LinkedIn:
+
+https://www.linkedin.com/feed/update/urn:li:activity:7289036530692616192/
