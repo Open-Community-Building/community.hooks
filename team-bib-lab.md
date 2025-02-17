@@ -1,4 +1,7 @@
-Team Bib Lab - Open House
+Team Bib Lab - OpenHouse
 
-We meet every Saturday at 10 here:
+We meet every Saturday at 10 o'clock here:
 
+https://www.heidelberg.de/stadtbuecherei/biblab.html
+
+It is our first implementation of the idea of a good place.
