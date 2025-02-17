@@ -11,7 +11,7 @@ We are always looking for talks from all kinds of folks, and the next talk at on
 
 🔴 If you want to propose a talk but do not know how we will help you prepare the talk, the slides, the presentation, anything you need!
 
-Stop thinking about giving a talk and propose a talk today!
+Start thinking about giving a talk and propose one today!
 
 Propose a talk 
 --------------
