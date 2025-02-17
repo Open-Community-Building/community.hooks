@@ -11,3 +11,6 @@ PyConWeb took place in Berlin on January 24th and 25th.
 25th of January: conference talks, 2 tracks: Python and Web
 
 I skipped the tutorial day on the 24th, so I can only report on the talks I chose to attend.
+
+Here are the links to my reports on the individual talks:
+
