@@ -14,7 +14,7 @@ I skipped the tutorial day on the 24th, so I can only report on the talks I chos
 
 These are the talks I attended:
 
-https://www.pyconweb.com/activity/what-history-of-web-teach-about-future-of-ai
+https://github.com/Open-Community-Building/community.hooks/blob/main/pyconweb2025-what-history-of-web-teach-about-future-of-ai.md
 
 https://www.pyconweb.com/activity/conquering-the-queue-lessons-from-processing-one-billion-celery-tasks
 
