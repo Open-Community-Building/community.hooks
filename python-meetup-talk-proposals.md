@@ -6,7 +6,9 @@ For our Python Meetup to be successful, we need awesome talks from awesome peopl
 We are always looking for talks from all kinds of folks, and the next talk at one of our meetups could be yours!
 
 🟢 The talks can be any topic as long as it is around Python.
+
 🟠 The level of the talk can be any. From the most advanced things you are working on up to the most basic of talks.
+
 🔴 If you want to propose a talk but do not know how we will help you prepare the talk, the slides, the presentation, anything you need!
 
 Stop thinking about giving a talk and propose a talk today!
