@@ -1,5 +1,5 @@
-Conquering the Queue: Lessons from processing one billion Celery tasks
-
+> Conquering the Queue: Lessons from processing one billion Celery tasks
+> 
 > Daniel Hepper
 > 
 > CTO @userlike
