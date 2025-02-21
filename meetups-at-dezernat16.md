@@ -10,12 +10,7 @@ https://github.com/Open-Community-Building/community.hooks/blob/main/team-bib-la
 
 Internal team meetings about the "Coworking der Vereine" happen at 10 o'clock every Saturday.
 
- every Saturday at 10 o'clock before 
-
-the 11 o'clock meetings of Team Bib Lab https://github.com/Open-Community-Building/community.hooks/blob/main/team-bib-lab.md
-
-
-Information about Dezernat 16:
+The main "CoWorking der Vereine" event happens at Dezernat 16:
 
 https://kreativwirtschaftszentren-heidelberg.de/dezernat16/
 
