@@ -1,6 +1,6 @@
 Open Community Building
 
-To get in touch with us, we get together every Saturday at 10 o'clock here:
+To get in touch with us, we get together every Saturday at 11 o'clock here:
 
 https://github.com/Open-Community-Building/community.hooks/blob/main/team-bib-lab.md
 
