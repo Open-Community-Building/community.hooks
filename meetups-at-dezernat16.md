@@ -4,7 +4,7 @@ Every last Tuesday of the Month, we organise an event at the Dezernat 16: "CoWor
 
 https://github.com/Open-Community-Building/community.hooks/blob/main/directions_to_seminarraum_in_dezernat16.md
 
-You can also meet some of us at the 11 o'clock meetings of Team Bib Lab:
+If you want to get in touch with some of the organisers, you are invited to the 11 o'clock meetings of Team Bib Lab:
 
 https://github.com/Open-Community-Building/community.hooks/blob/main/team-bib-lab.md
 
