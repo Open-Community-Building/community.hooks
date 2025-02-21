@@ -4,6 +4,17 @@ Every last Tuesday of the Month, we organise an event at the Dezernat 16: "CoWor
 
 https://github.com/Open-Community-Building/community.hooks/blob/main/directions_to_seminarraum_in_dezernat16.md
 
+You can also meet some of us at the 11 o'clock meetings of Team Bib Lab:
+
+https://github.com/Open-Community-Building/community.hooks/blob/main/team-bib-lab.md
+
+Internal team meetings about the "Coworking der Vereine" happen at 10 o'clock every Saturday.
+
+ every Saturday at 10 o'clock before 
+
+the 11 o'clock meetings of Team Bib Lab https://github.com/Open-Community-Building/community.hooks/blob/main/team-bib-lab.md
+
+
 Information about Dezernat 16:
 
 https://kreativwirtschaftszentren-heidelberg.de/dezernat16/
