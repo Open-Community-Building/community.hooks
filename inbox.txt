@@ -1,0 +1,1 @@
+https://geohot.github.io//blog/jekyll/update/2025/02/19/nobody-will-profit.html
