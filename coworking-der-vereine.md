@@ -72,3 +72,5 @@ Activity Log:
 2025-02-08: Heidelberger Dienste are sponsoring the room for our activities
 
 2025-02-21: Weekly internal organisation meetings happen every Saturday at 10 o'clock before the 11 o'clock meetings of Team Bib Lab https://github.com/Open-Community-Building/community.hooks/blob/main/team-bib-lab.md
+
+2025-02-22: Maik has received the key for the Seminarraum from Anne. 
