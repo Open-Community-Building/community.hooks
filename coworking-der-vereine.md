@@ -74,3 +74,7 @@ Activity Log:
 2025-02-21: Weekly internal organisation meetings happen every Saturday at 10 o'clock before the 11 o'clock meetings of Team Bib Lab https://github.com/Open-Community-Building/community.hooks/blob/main/team-bib-lab.md
 
 2025-02-22: Maik has received the key for the Seminarraum from Anne. 
+
+2025-02-25: The Python Meetup hosts the second event: https://www.meetup.com/heidelbergpython/events/306365234/
+
+2025-02-25: We also have a small workshop on video streaming at 7pm, to which some more people are invited.
