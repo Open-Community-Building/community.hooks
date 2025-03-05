@@ -15,6 +15,13 @@ Current Status:
 
 The hackathon is planned, and we are going to develop a plan.
 
+Agenda:
+(Suggestions:)
+
+1. The Secret Action Points.
+2. Code Cleaning.
+3. ...
+
 Todos:
 
 Activity Log:
