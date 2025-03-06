@@ -14,7 +14,7 @@ Mittwoch 26. März 2025, 19:00 Uhr im Königssaal des Heidelberger Schlosses.
 
 Einlass nur mit bestätigter Anmeldung.
 
-Andreas hat die Idee, daß nach den Schlossgesprächen in einem Nebenraum Interviews gemacht werden können.
+Andreas hat die Idee, daß nach den Schlossgesprächen, die oben stattfinden, dann unten bei der Nachfeier beim großen Fass Interviews zu machen.
 
 Interessierte Videoproduzenten und Interviewer richten sich an Andreas Koch:
 
