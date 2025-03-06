@@ -1,5 +1,13 @@
 25.HSG Heidelberger Schlossgespräche mit David Chipperfield
 
+David Chipperfield bei den 25. Heidelberger Schlossgesprächen
+
+Bei der Jubiläumsausgabe der Heidelberger Schlossgespräche am 26. März 2025 spricht der Architekt Sir David Chipperfield über seine Werke und darüber, wie er sich mit der Fundación RIA, seiner Umwelt-Denkfabrik und Forschungsinitiative in Santiago de Compostela, für nachhaltige Entwicklung und Lebensqualität einsetzt. 
+
+Teilnehmerzahl begrenzt, Platzvergabe in der Reihenfolge der eingegangenen Anmeldungen bis 14. März an: 
+
+schlossgespraeche.mahd@vbv.bwl.de
+
 https://heidelberger-schlossgespraeche.de/
 
 Mittwoch 26. März 2025, 19:00 Uhr im Königssaal des Heidelberger Schlosses. 
