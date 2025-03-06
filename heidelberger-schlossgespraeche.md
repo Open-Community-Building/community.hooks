@@ -1,5 +1,11 @@
 25.HSG Heidelberger Schlossgespräche mit David Chipperfield
 
+https://heidelberger-schlossgespraeche.de/
+
+Mittwoch 26. März 2025, 19:00 Uhr im Königssaal des Heidelberger Schlosses. 
+
+Einlass nur mit bestätigter Anmeldung.
+
 Andreas hat die Idee, daß nach den Schlossgesprächen in einem Nebenraum Interviews gemacht werden können.
 
 Interessierte Videoproduzenten und Interviewer richten sich an Andreas Koch:
