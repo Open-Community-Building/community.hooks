@@ -62,4 +62,27 @@ to decide which of the many results they had produced was the right one to be us
 
 - This is the Nature paper I contributed to: An integrated encyclopedia of DNA elements in the human genome: https://www.nature.com/articles/nature11247
 
+The important points from the talk:
+
+When you continuously add new stuff to your RAG, things that used to work can suddenly fail. Then you need to take a good look at what you are actually adding, and whether the quality is good enough. There is nothing worse that adding something without checking first, only to later see that you added something bogus that confused the system.
+
+Someone will pick up the pieces later when things go wrong, and that person better gets a good picture of the purpose and good versioned input and output examples to fix what can be fixed, especially when the AI system is business critical
+
+- version everything you learn about your RAG system. Document all input and output.
+
+- human feedback is important. collect it with from the domain experts, and document it
+
+- when starting with a RAG system, clearly state what should be used for, and what problem it should solve. 
+
+Some thing to keep in mind:
+
+- you need to evaluate the whole chain of a RAG, not just the individual parts. 
+
+One thing to not forget:
+
+- strong focus on checking the chunking
+
+
+
+
 
