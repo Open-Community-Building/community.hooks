@@ -31,15 +31,29 @@ Now for the things that I can already write down so that I do not forget them. I
 
   - Evaluation of Retrieval-Augmented Generation: A Survey: https://arxiv.org/abs/2405.07437
 
-- The first figure from the paper shows a good overview
+- The first figure from the paper shows a good overview (The link will probably break, but you know where to get the paper)
 
   - ![The structure of the RAG system with retrieval and generation components and corresponding four phrases: indexing, search, prompting and inferencing.](https://arxiv.org/html/2405.07437v2/extracted/5707186/rag-structure.png "Title")
 
+- Another paper that was mentioned was the WritingBench paper, which takes one domain and does the evaluation right:
 
+  - WritingBench: A Comprehensive Benchmark for Generative Writing: https://arxiv.org/abs/2503.05244
 
+- Hugging Face Hallucination Leaderboard
 
+  - https://huggingface.co/spaces/vectara/Hallucination-evaluation-leaderboard
 
+- Seems like it is common knowledge that making a public facing Chat bot can result in drama - Insert your horror story here...
 
+- I learned that experts don't mind hallucinations so much, because they can easily cope with the wrong information
+
+- It seems like the top job profiles that german companies need to hire for, but mostly fail are: Data / AI engineers
+
+- Vibe Coding got some bashing, and I guess I need to learn about it a bit more to join in ;-)
+
+- It sounded reasobable that a lot of improvements for RAG systems can be obtained by addition of good meta data
+
+- An observation was made about many startups seem to focus on question and answer, but there is much more out there, like summarisation and reasoning.
 
 
 
