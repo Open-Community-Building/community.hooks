@@ -55,8 +55,11 @@ Now for the things that I can already write down so that I do not forget them. I
 
 - An observation was made about many startups seem to focus on question and answer, but there is much more out there, like summarisation and reasoning.
 
+One thing that made me laugh inside was when it was mentioned that it was often the case in the past that researchers did not version their results.
+While working in the lab of Roderic Guigó in the CRG in Barcelona, I was the one who made sure that all of the results from all researchers
+got immediately added to Git. There is only one researcher who refused to collaborate with me, and guess who had to roll a dice later 
+to decide which of the many results they had produced was the right one to be used for to the paper.
 
-
-
+- This is the Nature paper I contributed to: An integrated encyclopedia of DNA elements in the human genome: https://www.nature.com/articles/nature11247
 
 
