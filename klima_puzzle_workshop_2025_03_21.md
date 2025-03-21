@@ -1,10 +1,14 @@
-Klima Puzzle Workshop & Puzzle der Kreislaufwirtschaft
-
+Organisatorisches:
 
 Kalender Eintrag hier:
 
 https://github.com/Open-Community-Building/community.calendar/blob/main/README.md
 
+Github Ablage hier:
+
+https://github.com/Open-Community-Building/community.hooks/blob/main/klima_puzzle_workshop_2025_03_21.md
+
+Klima Puzzle Workshop & Puzzle der Kreislaufwirtschaft
 
 https://www.klimabuendnis-karlsruhe.de/mc-events/klima-puzzle-puzzle-der-kreislaufwirtschaft-eine-veranstaltung-zwei-kooperative-spielerische-und-kreative-workshops-zur-wahl/?doing_wp_cron=1742551132.1319940090179443359375
 
