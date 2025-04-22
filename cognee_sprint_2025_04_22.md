@@ -20,6 +20,29 @@ https://github.com/Open-Community-Building/hackathon-council-analytics/
 
 The sprint was managed by Hande Kafkas from Cognee. 
 She quickly got us set up and answered any questions we had, so we could get things done.
+I worked a bit with Gabriel Thiem to debug some errors, and got valuable input from Jan Müller who is from the area of Heidelberg and works for a big company there.
+
+## Feedback for Cognee
+
+My feedback to the Cognee project was that to get things running, it was necessary to also run
+
+```
+pip install transformers
+```
+
+so that Hugging Face works.
+
+Another point I made was that sometimes you need to adapt the embedding dimension setting when you get this kind of error:
+
+```
+List should have at most 3072 items after validation, not 4096 [type=too_long, 
+input_value=[6.078067302703857, 4.588..., -0.043787240982055664], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.10/v/too_long
+```
+
+This can be easily fixed in the .env:
+
+EMBEDDING_DIMENSIONS=4096
 
 So let's dive in to see how far I came:
 
@@ -315,6 +338,90 @@ HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
 
 That worked nicely, but how about going bigger and using more recent tools.
 
+Also, we were told that llama 3.2 is too weak to generate graph. They recomment llama3.3 in the documentation as well as deepseek-r1:32b:
+
+```
+DISCLAIMER: Models below 32b parameters are unable to create the proper graph structure sometimes so we suggest to use models like ‘deepseek-r1:32b’ or ‘llama3.3’.
+```
+
+I followed the advice of Jan Müller to use Gemma3. He told me that Google worked closely with Ollama to get Gemma3 working smoothly, and this is my setup:
+
+```
+ollama run gemma3:27b-it-qat
+ollama pull mxbai-embed-large
+```
+
+This is the .env, I used:
+
+```
+ENV="local"
+TOKENIZERS_PARALLELISM="false"
+
+# Default User Configuration
+DEFAULT_USER_EMAIL=""
+DEFAULT_USER_PASSWORD=""
+
+# LLM Configuration
+LLM_API_KEY = "ollama"
+LLM_MODEL = "gemma3:27b-it-qat"
+LLM_PROVIDER = "ollama"
+LLM_ENDPOINT = "http://localhost:11434/v1"
+LLM_API_VERSION=""
+LLM_MAX_TOKENS="16384"
+
+GRAPHISTRY_USERNAME=
+GRAPHISTRY_PASSWORD=
+
+SENTRY_REPORTING_URL=
+
+# Embedding Configuration
+EMBEDDING_PROVIDER = "ollama"
+EMBEDDING_MODEL = "mxbai-embed-large"
+EMBEDDING_ENDPOINT = "http://localhost:11434/api/embeddings"
+EMBEDDING_API_KEY=""
+EMBEDDING_API_VERSION=""
+EMBEDDING_DIMENSIONS=1024
+EMBEDDING_MAX_TOKENS=8191
+HUGGINGFACE_TOKENIZER = "mixedbread-ai/mxbai-embed-large-v1"
+
+# "neo4j", "networkx" or "kuzu"
+GRAPH_DATABASE_PROVIDER="networkx"
+# Only needed if using neo4j
+GRAPH_DATABASE_URL=
+GRAPH_DATABASE_USERNAME=
+GRAPH_DATABASE_PASSWORD=
+
+# "qdrant", "pgvector", "weaviate", "milvus", "lancedb" or "chromadb"
+VECTOR_DB_PROVIDER="lancedb"
+# Not needed if using "lancedb" or "pgvector"
+VECTOR_DB_URL=
+VECTOR_DB_KEY=
+
+# Relational Database provider "sqlite" or "postgres"
+DB_PROVIDER="sqlite"
+
+# Database name
+DB_NAME=cognee_db
+
+# Postgres specific parameters (Only if Postgres or PGVector is used). Do not use for cognee default simplest setup of SQLite-NetworkX-LanceDB
+# DB_HOST=127.0.0.1
+# DB_PORT=5432
+# DB_USERNAME=cognee
+# DB_PASSWORD=cognee
 
 
+# Params for migrating relational database data to graph / Cognee ( PostgreSQL and SQLite supported )
+# MIGRATION_DB_PATH="/path/to/migration/directory"
+# MIGRATION_DB_NAME="migration_database.sqlite"
+# MIGRATION_DB_PROVIDER="sqlite"
+# Postgres specific parameters for migration
+# MIGRATION_DB_USERNAME=cognee
+# MIGRATION_DB_PASSWORD=cognee
+# MIGRATION_DB_HOST="127.0.0.1"
+# MIGRATION_DB_PORT=5432
 
+# LITELLM Logging Level. Set to quiten down logging
+LITELLM_LOG="ERROR"
+```
+
+That's it for the moment. I hope this documentation can help me get started on some real data.
