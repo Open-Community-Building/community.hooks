@@ -44,12 +44,14 @@ cd cognee
 pip install .
 ```
 
-## Ollama installation
+## Using the local LLM server Ollama
 
-Some links:
+Here are the tutorials I looked at while doing the installation:
 
 https://ollama.com/download/linux
 https://docs.cognee.ai/tutorials/setup-ollama
+
+## Ollama installation
 
 Installing ollama:
 
@@ -99,6 +101,34 @@ NAME           ID              SIZE     PROCESSOR    UNTIL
 phi4:latest    ac896e5b8b34    12 GB    100% GPU     4 minutes from now    
 ```
 
+## Install phi4 and mistral
+
+Try it:
+
+```
+curl http://localhost:11434/api/embeddings -d '{
+    "model": "phi4:latest",
+    "prompt": "Tell me about NLP"
+}'
+```
+
+Install mistral:
+
+```
+ollama run avr/sfr-embedding-mistral
+```
+
+Check that it works
+
+```
+curl http://localhost:11434/api/embeddings -d '{
+    "model": "avr/sfr-embedding-mistral:latest",
+    "prompt": "Tell me about NLP"
+}'
+```
+
+## Creat a Python script
+
 I added a simple_test.py file:
 
 ``` 
@@ -147,8 +177,7 @@ if __name__ == "__main__":
         loop.run_until_complete(loop.shutdown_asyncgens())
 ```
 
-This is the .env I used:
-
+## Environment variables
 
 Use these environment variables in your .env file:
 
@@ -224,6 +253,8 @@ DB_NAME=cognee_db
 LITELLM_LOG="ERROR"
 ```
 
+## Run the script
+
 Running the script gives:
 
 ```
@@ -282,7 +313,7 @@ HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
 ({'created_at': 1745327414612, 'updated_at': datetime.datetime(2025, 4, 22, 13, 10, 14, 612000, tzinfo=datetime.timezone.utc), 'ontology_valid': False, 'version': 1, 'topological_rank': 0, 'metadata': {'index_fields': ['name']}, 'type': 'Entity', 'belongs_to_set': None, 'name': 'nlp', 'description': 'Interdisciplinary subfield primarily linking computer science and information retrieval.', 'id': UUID('bc338a39-64d6-549a-acec-da60846dd90d')}, {'source_node_id': UUID('bc338a39-64d6-549a-acec-da60846dd90d'), 'target_node_id': UUID('66443a9d-b00a-5632-bdf0-72758f4f3b53'), 'relationship_name': 'is_a', 'updated_at': datetime.datetime(2025, 4, 22, 13, 10, 17, 69147, tzinfo=datetime.timezone.utc)}, {'created_at': 1745327414612, 'updated_at': datetime.datetime(2025, 4, 22, 13, 10, 14, 612000, tzinfo=datetime.timezone.utc), 'ontology_valid': False, 'version': 1, 'topological_rank': 0, 'metadata': {'index_fields': ['name']}, 'type': 'EntityType', 'belongs_to_set': None, 'name': 'area of study', 'description': 'area of study', 'id': UUID('66443a9d-b00a-5632-bdf0-72758f4f3b53')})
 ```
 
-
+That worked nicely, but how about going bigger and using more recent tools.
 
 
 
