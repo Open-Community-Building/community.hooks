@@ -19,3 +19,23 @@ The talk by Ines was a great Keynote for this conference!
 Ines powered through her talk, and fired off many ideas left and right. 
 
 I am still processing the input, and have slowly managed to get a full picture by looking up the references. 
+
+Some slides and more resources here: 
+
+https://speakerdeck.com/inesmontani/what-the-history-of-the-web-can-teach-us-about-the-future-of-ai
+
+There is a blog post here:
+
+https://explosion.ai/blog/history=web-future-ai
+
+The standalone conference videos 
+haven't been published yet afaik, 
+but the recording from the stream 
+is already live and my talk starts 
+around the ~ 1h mark: 
+
+https://www.youtube.com/live/kpocg6b89Fs?si=pmNN1kX5GJCe1vke&t=3840
+
+
+
+
