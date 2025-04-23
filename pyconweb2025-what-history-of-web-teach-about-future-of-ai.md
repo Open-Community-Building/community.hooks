@@ -26,13 +26,9 @@ https://speakerdeck.com/inesmontani/what-the-history-of-the-web-can-teach-us-abo
 
 There is a blog post here:
 
-https://explosion.ai/blog/history=web-future-ai
+https://explosion.ai/blog/history-web-future-ai
 
-The standalone conference videos 
-haven't been published yet afaik, 
-but the recording from the stream 
-is already live and my talk starts 
-around the ~ 1h mark: 
+The recording from the stream is already live and my talk starts around the ~ 1h mark: 
 
 https://www.youtube.com/live/kpocg6b89Fs?si=pmNN1kX5GJCe1vke&t=3840
 
