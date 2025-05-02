@@ -1,6 +1,6 @@
 # Journal Club
 
-Every Thursday, we are going to have a journal club, lead by students.
+Every Tuesday, just before the Python Meetup, we are going to have a journal club, lead by students.
 
 Probably from 17:00 to 18:00 at the Tink Tank.
 
