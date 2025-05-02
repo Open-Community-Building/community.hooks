@@ -18,7 +18,7 @@ https://www.zotero.org
 
 The current organiser is going to be Rishabh Kumar: https://www.linkedin.com/in/rishabh-kumar-61685a193
 
-We thank the following people that helped to get ideas on how to best setup the jourbal club:
+We thank the following people that helped to get ideas on how to best setup the journal club:
 
 - Madeleine Schultz: https://www.linkedin.com/in/madeleine-schultz-b887611a2/
 
