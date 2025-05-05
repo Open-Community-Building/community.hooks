@@ -2,7 +2,9 @@
 
 Every Tuesday, just before the Python Meetup, we are going to have a journal club, lead by students.
 
-Probably from 17:00 to 18:00 at the Tink Tank.
+Time: 17:30 to 18:00 at the Tink Tank.
+
+Preparation: 17:00 to 17:30
 
 They are going collect papers on Zotero:
 
