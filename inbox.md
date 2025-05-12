@@ -1,3 +1,5 @@
+https://kottke.org/13/05/the-three-types-of-specialist
+
 https://prigoose.substack.com/p/how-to-start-a-university
 https://web.archive.org/web/20250000000000*/https://prigoose.substack.com/p/how-to-start-a-university
 
