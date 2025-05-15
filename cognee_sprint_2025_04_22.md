@@ -11,7 +11,7 @@ along the way.
 The hope here is that by setting up a stage for a query, a knowledge graph can help selecting
 the relevant documents for queries and respond accurately. 
 
-During the sprint I could get it to work on on our GEX44 Hetzner servera for a minimal project.
+During the sprint I could get it to work on on our GEX44 Hetzner server for a minimal project.
 I want to revisit my notes here to try it out on the Heidelberg city council documents.
 
 Council Analytics:
