@@ -78,3 +78,5 @@ Activity Log:
 2025-02-25: The Python Meetup hosts the second event: https://www.meetup.com/heidelbergpython/events/306365234/
 
 2025-02-25: We also have a small workshop on video streaming at 7pm, to which some more people are invited.
+
+2025-05-21: We can talk about https://www.bitkom.org/Themen/Startups-Scaleups/Tech-Meets-School-EdTech an if we would like to make a pitch
