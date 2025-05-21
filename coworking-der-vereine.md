@@ -22,9 +22,9 @@ Marlene 42 https://kreativwirtschaftszentren-heidelberg.de/marlene42/
 
 Current Status: 
 
-Heidelberger Dienste gGmbH (https://www.hddienste.de/) are sponsoring the room for our activities. 
-The first meeting on the 28th of January 2025 was promising. 
-In preparation of the next meeting on the 25th oj January, we are having organisational meetings in the Heidelberg public library every Saturday at 10 o'clock. Location: Stadtbücherei Heidelberg https://www.heidelberg.de/stadtbuecherei/startseite.html
+- We started to work on integration with rheinneckar.social und rheinneckar.events
+
+- We are going to discuss whether we want to participate at the Bitkom Pitch: https://www.bitkom.org/Themen/Startups-Scaleups/Tech-Meets-School-EdTech
 
 Todos:
 
@@ -37,9 +37,15 @@ Todos:
  
 - Create a channel at stadtwissen.eu
 
-- Integration with rheinneckar.social und rheinneckar.events
-
 - We want to invite the different associations in Heidelberg to join us
+
+Done:
+
+- Heidelberger Dienste gGmbH (https://www.hddienste.de/) are sponsoring the room for our activities. 
+
+- The first meeting on the 28th of January 2025 was promising. 
+
+- In preparation of the next meeting on the 25th oj January, we are having organisational meetings in the Heidelberg public library every Saturday at 10 o'clock. Location: Stadtbücherei Heidelberg https://www.heidelberg.de/stadtbuecherei/startseite.html
 
 Activity Log:
 
