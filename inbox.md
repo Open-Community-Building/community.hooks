@@ -1,4 +1,7 @@
+https://www.droid-boy.de/openvibe-eine-social-media-app-fuer-alle-socials/
+
 https://nealstephenson.substack.com/p/remarks-on-ai-from-nz
+
 https://www.chathamhouse.org/about-us/chatham-house-rule
 
 https://kottke.org/13/05/the-three-types-of-specialist
