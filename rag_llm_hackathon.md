@@ -33,13 +33,13 @@ Todos:
 
 - Mention it on rheinneckar.social
 
-- Create an event on rheinneckar.events
+- Create an event on https://rheinneckar.events
 
 - Write documentation about how to make a room reservation at Tink Tank
 
 - Make a program for the day - Harsh offered help
 
-- Add event to rheinneckar.events
+- Add event to https://rheinneckar.events
 
 Activity Log:
 
