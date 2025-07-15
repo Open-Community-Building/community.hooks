@@ -37,7 +37,7 @@ Another point I made was that sometimes you need to adapt the embedding dimensio
 ```
 List should have at most 3072 items after validation, not 4096 [type=too_long, 
 input_value=[6.078067302703857, 4.588..., -0.043787240982055664], input_type=list]
-    For further information visit https://errors.pydantic.dev/2.10/v/too_long
+    For further information visit https://docs.pydantic.dev/2.10/errors/validation_errors/#too_long
 ```
 
 This can be easily fixed in the .env:
