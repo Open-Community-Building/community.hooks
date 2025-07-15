@@ -22,7 +22,7 @@ Marlene 42 https://kreativwirtschaftszentren-heidelberg.de/marlene42/
 
 Current Status: 
 
-- We started to work on integration with rheinneckar.social und rheinneckar.events
+- We started to work on integration with rheinneckar.social und https://rheinneckar.events
 
 - We are going to discuss whether we want to participate at the Bitkom Pitch: https://www.bitkom.org/Themen/Startups-Scaleups/Tech-Meets-School-EdTech
 
@@ -35,7 +35,7 @@ Todos:
   - https://www.meetup.com/urban-innovation-stadt-neu-denken/events/305861334/
   - https://www.meetup.com/heidelbergpython/events/305500106
  
-- Create a channel at stadtwissen.eu
+- Create a channel at https://stadtwissen.eu
 
 - We want to invite the different associations in Heidelberg to join us
 
