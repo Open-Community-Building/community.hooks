@@ -28,6 +28,6 @@ https://www.pyconweb.com/activity/securing-python-web-applications
 
 https://www.pyconweb.com/activity/from-25-microservices-to-one-async-modulith
 
-https://www.pyconweb.com/activity/pure-django-rest-api-framework
+https://www.pyconweb.com/activity/pure-django-rest-api-framework.html
 
 https://www.pyconweb.com/activity/lightning-talks
