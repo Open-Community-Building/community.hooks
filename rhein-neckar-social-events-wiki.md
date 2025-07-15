@@ -8,9 +8,9 @@ Location: https://github.com/Open-Community-Building/community.hooks/blob/main/d
 
 The topics were 
 
-1. the adoption of the fediverse instances rheinneckar.social and rheinneckar.events
+1. the adoption of the fediverse instances rheinneckar.social and https://rheinneckar.events
 2. how to participate financially and technically
-3. regional wiki rhein-neckar-wiki.de
+3. regional wiki https://rhein-neckar-wiki.de
 
 Some links:
 
