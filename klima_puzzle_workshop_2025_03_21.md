@@ -2,7 +2,7 @@ Organisatorisches:
 
 Kalender Eintrag hier:
 
-https://github.com/Open-Community-Building/community.calendar/blob/main/README.md
+https://github.com/Open-Community-Building/community.calendar
 
 Github Ablage hier:
 
